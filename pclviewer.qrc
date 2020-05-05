@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="pclviewer">
+    <file>Resources/save.png</file>
+    <file>Resources/border_outer.png</file>
+    <file>Resources/fit_base.png</file>
+    <file>Resources/boss_height.png</file>
+    <file>Resources/filter.png</file>
+    <file>Resources/file.png</file>
+    <file>Resources/1.png</file>
+    <file>Resources/fitplane.png</file>
+    <file>Resources/rectLabelSymbol.png</file>
+    <file>Resources/BtnCCDist.png</file>
+    <file>Resources/szu1.jpg</file>
+  </qresource>
+</RCC>
